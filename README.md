@@ -1,16 +1,22 @@
-## Hi there 👋
+# r f i d d ⚡
 
-<!--
-**rfidd/rfidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> ❝ I speak code fluently and glitch reality in my spare time. ❞  
+> ❝ Systems fear me, firewalls respect me. ❞
 
-Here are some ideas to get you started:
+```diff
++ Status: Awake || Deploying madness
+- Sleep mode: deprecated
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+$ whoami
+> rfidd@undernet
+```
+
+🛰️ Dreaming in binary  
+🧠 Running on caffeine & terminal commands  
+🛠️ Building silent, shipping loud  
+
+---
+
+![rfidd's GitHub stats](https://github-readme-stats.vercel.app/api?username=rfidd&show_icons=true&theme=tokyonight)
