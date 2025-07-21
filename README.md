@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Raef - rfidd 👋</h1>
+<h1 align="center">Hi, I'm rfidd 👋</h1>
 <p align="center">
   Front End Developer | #RFID Kids Need To Learn 🐧
 </p>
