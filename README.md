@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Raef - rfidd 👋</h1>
 <p align="center">
-  Front End Developer | #KNTL Kids Need To Learn 🐧
+  Front End Developer | #RFID Kids Need To Learn 🐧
 </p>
 
 <p align="center">
